@@ -8,4 +8,5 @@
 * https://www.samlau.me/test-textbook/ch/19/pca_svd.html
 * https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf
 * https://github.com/ChetanKnowIt/pygbm
+* https://library.ucsd.edu/dc/object/bb8503744c/_2_1.pdf
 
